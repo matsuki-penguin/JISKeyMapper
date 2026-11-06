@@ -5,12 +5,12 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 // 以下にMSVCおよびWindows SDKのインクルードパスを適宜追加
-                "D:\\msvc\\VC\\Tools\\MSVC\\14.51.36231\\include",
-                "D:\\msvc\\Windows Kits\\10\\Include\\10.0.28000.0\\ucrt",
-                "D:\\msvc\\Windows Kits\\10\\Include\\10.0.28000.0\\um",
-                "D:\\msvc\\Windows Kits\\10\\Include\\10.0.28000.0\\shared"
+                "C:\\path\\to\\VC\\Tools\\MSVC\\version\\include",
+                "C:\\path\\to\\Windows Kits\\10\\Include\\version\\ucrt",
+                "C:\\path\\to\\Windows Kits\\10\\Include\\version\\um",
+                "C:\\path\\to\\Windows Kits\\10\\Include\\version\\shared"
             ],
-            "compilerPath": "D:\\msvc\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+            "compilerPath": "D:\\path\\to\\VC\\Tools\\MSVC\\version\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "windows-msvc-x64"

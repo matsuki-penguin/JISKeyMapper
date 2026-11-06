@@ -8,7 +8,7 @@
             "args": [
                 "/c",
                 // 展開した Build Tools の vcvars64.bat への絶対パスを指定してください
-                "\"D:\\msvc\\setup_x64.bat\" && nmake.exe"
+                "\"C:\\path\\to\\setup_x64.bat\" && nmake.exe"
             ],
             "group": {
                 "kind": "build",
