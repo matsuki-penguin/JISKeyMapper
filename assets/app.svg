@@ -1,0 +1,60 @@
+<svg
+  width="256"
+  height="256"
+  viewBox="0 0 256 256"
+  xmlns="http://www.w3.org/2000/svg"
+  xml:space="preserve"
+  overflow="hidden"
+>
+  <!-- 青い角丸矩形 を下へ4pxシフト -->
+  <path
+    d="
+      M0 42.64
+      C0 21.28 17.28 4 38.64 4
+      L217.36 4
+      C238.72 4 256 21.28 256 42.64
+      L256 213.36
+      C256 234.72 238.72 252 217.36 252
+      L38.64 252
+      C17.28 252 0 234.72 0 213.36
+      Z
+    "
+    fill="#4E95D9"
+    fill-rule="evenodd"
+  />
+
+  <!-- 水色の角丸矩形 を下へ4pxシフト -->
+  <path
+    d="
+      M24 30.64
+      C24 15.92 35.92 4 50.64 4
+      L205.36 4
+      C220.08 4 232 15.92 232 30.64
+      L232 137.36
+      C232 152.08 220.08 164 205.36 164
+      L50.64 164
+      C35.92 164 24 152.08 24 137.36
+      Z
+    "
+    fill="#A6CAEC"
+    fill-rule="evenodd"
+  />
+
+  <!-- テキスト y 座標を +4 -->
+  <text
+    x="128"
+    y="106"
+    text-anchor="middle"
+    font-family="Consolas, sans-serif"
+    font-weight="700"
+    font-size="70"
+  >US JP</text>
+  <text
+    x="128"
+    y="93"
+    text-anchor="middle"
+    font-family="Consolas, sans-serif"
+    font-weight="700"
+    font-size="40"
+  >◂▸</text>
+</svg>
